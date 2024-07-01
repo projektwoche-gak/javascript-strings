@@ -1,0 +1,4 @@
+Dein Ziel ist es, String-Methoden auf das Wort anzuwenden, sodass du am Ende den String „beard“ erhältst.
+Verwende eine String-Methode, um den Teil „board“ aus „skateboard“ zu extrahieren (mit der slice-Methode).
+Ersetze das „o“ in „board“ durch ein „e“ (mit der replace-Methode).
+Speichere das Ergebnis in einer Variablen namens „facialHair“.
